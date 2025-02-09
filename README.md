@@ -1,6 +1,3 @@
-# Windows-Server-Health-Monitoring
-
-
 # Windows Server Health Monitoring (Python + WMI)  
 
 ## Overview  
